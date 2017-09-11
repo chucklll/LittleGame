@@ -1,0 +1,12 @@
+ANDROID_HOME=C:\Users\Administrator\AppData\Local\Android\
+JAVA_HOME=C:\Program Files\java\jdk1.8.0_131
+Subproject Path: CordovaLib
+NDK is missing a "platforms" directory.
+If you are using NDK, verify the ndk.dir is set to a valid NDK directory.  It is currently set to C:\Users\Administrator\AppData\Local\Android\Sdk\ndk-bundle.
+If you are not using NDK, unset the NDK variable from ANDROID_NDK_HOME or local.properties to remove this warning.
+
+C:\Users\Administrator\AppData\Local\Android\build-tools
+
+BUILD FAILED
+
+Total time: 1.616 secs
